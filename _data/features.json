@@ -1,0 +1,29 @@
+[
+  {
+    "title": "IT Consultation",
+    "description": "New clients receive an obligation consultation.",
+    "image": {
+      "url": "images/features/noun_branding_1885335.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Software/DevOps Solutions",
+    "description": "All members of our team are certified Software and DevOps Engineers.",
+    "image": {
+      "url": "images/features/noun_The Process_1885341.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Trainings",
+    "description": "With the help of our extensive training programs, you may invest in the abilities and expertise of your employees.",
+    "image": {
+      "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    }
+  }
+]
