@@ -2,7 +2,7 @@
 title: Our Services
 layout: services
 description: Our Services
-intro_image: "images/solution.jpg"
+intro_image: "images/solutions.jpeg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
