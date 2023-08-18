@@ -6,7 +6,7 @@ bodyClass: page-about
 ---
 
 
-![Accounting Services](/images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg)
+![Accounting Services](/images/aboutneu.jpg)
 
 # Who we are
 
