@@ -17,8 +17,7 @@ collections:
   services:
     output: true
     sort_by: weight
-  team:
-    output: true
+
 
 defaults:
   - scope:
